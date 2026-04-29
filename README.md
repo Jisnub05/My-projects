@@ -1,5 +1,14 @@
-# My-projects
-This repo contains all my RF and microwave projects along with the reference papers and the relevant reports.
+# Beam-steering
+The project focuses on analog beam-steering using butler matrix on circular arrays of highly directive antennas.
 
-Reference papers: 1. Apperture coupled microstrip, 2.Stacked antenna 3. u-slot array are the reference papers for this project.
+The antennas that have been used are 
+1.2x2 U-slot array 
+2.Apperture coupled microstrip antenna with FSS superstrate layer
+3.Stacked Dielectric resonator antenna
 
+The butler matrix consists of 3 parts:
+1. BLC
+2. Crossover
+3. Power divider at the edges
+
+Each Butler matrix is designed at the specific operating frequency of the antenna for efficient beam-steering.
